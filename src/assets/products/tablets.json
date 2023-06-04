@@ -1,0 +1,46 @@
+[
+	{
+		"productId": 1,
+		"productName": "Paneer Tikka Masala",
+		"productCode": "TAB-120",
+		"description": "Crispy Dry Paneer",
+		"price": 450,
+		"imageUrl": "assets/imgs/apple_ipad_mini.jpg",
+		"manufacturer": "Radison Blue Hotel",
+		"ostype": "Paneer",
+		"rating": 4
+	},
+	{
+		"productId": 2,
+		"productName": "Paneer Lababdar",
+		"productCode": "TAB-124",
+		"description": "Sweet in Taste",
+		"price": 250,
+		"imageUrl": "assets/imgs/ipad_air.jpg",
+		"manufacturer": "Sayyaji Hotel",
+		"ostype": "Paneer",
+		"rating": 3
+	},
+	{
+		"productId": 3,
+		"productName": "Veg Kolhapuri",
+		"productCode": "TAB-125",
+		"description": "Maharashtrian Tadka",
+		"price": 280,
+		"imageUrl": "assets/imgs/samsung_tab.jpg",
+		"manufacturer": "Sukanta Pure Veg",
+		"ostype": "Mix Veg",
+		"rating": 4
+	},
+	{
+		"productId": 4,
+		"productName": "Dal Tadka",
+		"productCode": "TAB-126",
+		"description": "Maharashtrian Tadka",
+		"price": 180,
+		"imageUrl": "assets/imgs/dal_tadka.JPG",
+		"manufacturer": "Sukanta Pure Veg",
+		"ostype": "Dal",
+		"rating": 3
+	}
+]
